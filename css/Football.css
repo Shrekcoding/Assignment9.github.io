@@ -1,0 +1,62 @@
+img {
+    max-width: 120%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto
+}
+
+/* Section Inner */
+div.section-inner {
+    max-width: auto padding: 0 1100px;
+    height: auto padding: 0 25px;
+    margin: 0 auto;
+}
+
+
+
+/* Body Content */
+div.body-content {
+    padding: 50px 0;
+    background-color: #FFF;
+}
+
+/* Thirds */
+div.thirds {
+    padding-bottom: 50px;
+}
+
+
+
+
+
+div.one-third-last {
+    margin: 0;
+}
+
+
+
+
+
+
+
+div.nav ul li {
+    width: 33%;
+}
+
+div.one-third {
+    width: 50%;
+    float: left;
+    margin: 0;
+}
+
+div.one-third-second {
+    margin: 0;
+}
+
+.games {
+    background-color: lightgrey;
+    width: 400px;
+    border: 15px solid green;
+    padding: 5px;
+    margin: 20px;
+}
